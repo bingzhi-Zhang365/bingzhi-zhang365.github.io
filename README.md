@@ -6,4 +6,6 @@ Source for my personal academic website, featuring my research interests, public
 
 Built with HTML, CSS, and JavaScript, and designed for GitHub Pages.
 
-Header image: [source](https://wallhaven.cc/w/n6q3q7).
+Website development was assisted by OpenAI Codex.
+
+
